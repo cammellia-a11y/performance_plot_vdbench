@@ -1,0 +1,4 @@
+sd=sd1,lun=/dev/nvme0n1,size=10G,openflag=o_direct,threads=32
+wd=wd1,sd=sd1,rdpct=0,seekpct=0,xfersize=512K
+rd=rd1,wd=wd1,iorate=50000,elapsed=60,interval=1
+
