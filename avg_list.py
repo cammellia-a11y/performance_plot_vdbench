@@ -21,8 +21,7 @@ def avg(float_lst,n):
     return averages
 
 
-# avg_lst=[round(item,2) for item in avg(lst,60)]
-# print(avg_lst)
+
 
 
 
